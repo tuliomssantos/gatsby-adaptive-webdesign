@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{RXBc:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return a}));var i=t("q1tI"),s=t.n(i);function a(){return s.a.createElement("div",{className:"container"},s.a.createElement("h1",null,"Desk Version"),s.a.createElement("p",null,"This version is only visible on desk devices"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-0dc9ad94f3abf196cf0f.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{RXBc:function(e,n,i){"use strict";i.r(n),i.d(n,"default",(function(){return a}));var t=i("q1tI"),o=i.n(t);function a(){return o.a.createElement("div",{className:"container"},o.a.createElement("h1",null,"Mobile Version"),o.a.createElement("p",null,"This version is only visible on mobile devices"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-09cc9be372198eb1ab11.js.map
